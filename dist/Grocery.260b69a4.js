@@ -1,0 +1,2 @@
+var e=("undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:"undefined"!=typeof window?window:"undefined"!=typeof global?global:{}).parcelRequire22de;e.register("lYhvf",(function(r,n){var l,i,o,d,f;l=r.exports,Object.defineProperty(l,"__esModule",{value:!0,configurable:!0}),i=r.exports,o="default",d=function(){return a},Object.defineProperty(i,o,{get:d,set:f,enumerable:!0,configurable:!0});var t=e("jk232");e("4RFnf");var a=()=>(0,t.jsx)("div",{children:(0,t.jsx)("h1",{children:"We also deliver groceries"})})}));
+//# sourceMappingURL=Grocery.260b69a4.js.map
